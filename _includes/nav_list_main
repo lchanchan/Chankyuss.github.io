@@ -12,7 +12,7 @@
       </li>
       <li>
         <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
-        <span class="nav__sub-title">Study</span>
+        <span class="nav__sub-title">💻 Study</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
@@ -33,11 +33,11 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Unreal_engine" %}
-                        <li><a href="/categories/unreal_engine" class="">언리얼 엔진 (with C++) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/unreal_engine" class="">언리얼 엔진 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Major</span>
+        <span class="nav__sub-title">🎓 Major</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Physics" %}
