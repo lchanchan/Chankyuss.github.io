@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Chankyu Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ㅎㅇㅎㅇ"
   location         : "South Korea"
   email            :
