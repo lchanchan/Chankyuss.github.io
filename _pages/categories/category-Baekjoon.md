@@ -1,5 +1,5 @@
 ---
-title: "BaekJoon 풀이"
+title: "Baekjoon 풀이"
 layout: archive
 permalink: categories/baekjoon
 author_profile: true

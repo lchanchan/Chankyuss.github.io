@@ -1,12 +1,12 @@
 ---
-title : "BaekJoon 풀이 (1) - Hello World!"
+title : "Baekjoon 풀이 (1) - Hello World!"
 excerpt : "Hello World!를 출력하시오."
 
 writer: Chankyu Lee
 categories: 
-  - BakeJoon
+  - Baekjoon
 tags:   
-  - [BaekJoon, 백준, 알고리즘]
+  - [Baekjoon, 백준, 알고리즘]
 
 toc : true 
 toc_sticky: true
